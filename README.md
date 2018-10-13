@@ -1,5 +1,7 @@
 # CSE220
-Programming assignments for assembly language programming,  concepts of computer organization, and architecture course.
+Programming assignments for assembly language programming,concepts of computer organization, and architecture course.
+
+Taken Fall 2017 with Professor Kevin Mcdonnell. All homeworks below passed **ALL** tests cases given by the prof.
 
 * **hw1**
   * 
