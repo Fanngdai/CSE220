@@ -16,11 +16,11 @@ Programming assignments for assembly language programming,  concepts of computer
   * int editDistance(String str1, String str2, int m, int n) **recursive**
 * **2048 halfword size**
   * 2048.docx has test cases for the functions.
-  * game.asm allows the user to play the actual game.
+  * game.asm allows the **user to play the actual game**.
     * This file (to play the entire game) was not required for the homework.
-    * Allows user to play from a 2x2 board to an 8x8 board.
+    * Allows user to play from a **2x2 board to an 8x8 board**.
     * Row & col of board does not need to be equivalent.
-    * With this said, the user must use the correct mars version which has the 2048 GUI.
+    * With this said, the user **must use the correct mars version** which has the **2048 GUI**.
   * hw4.asm contains all the functions required for this assignment.
   * hw4_examples.asm contains test cases for 2048.docx
   * hw4_test.asm contains test cases which was given by the prof.
